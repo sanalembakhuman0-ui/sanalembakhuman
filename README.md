@@ -1,2 +1,3 @@
 # sanalembakhuman
-my first project 
+my first project. 
+author sanalemba khuman
